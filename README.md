@@ -31,7 +31,15 @@ I'm a developer who enjoys building software and learning new paradigms. I striv
 ### Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,neovim,git,github,bash,powershell,python,java,go,rust,c,cpp,lua,unity,godot,ts,js,html,css,docker,latex&theme=dark&perline=7" alt="Skill Icons" width="250" />
+  <p><strong>Languages</strong><br/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,java,python,lua,ts,js,html,css&theme=dark" height="30" />
+  </p>
+  <p><strong>Tools & Environments</strong><br/>
+    <img src="https://skillicons.dev/icons?i=linux,bash,powershell,neovim,git,github,docker,latex&theme=dark" height="30" />
+  </p>
+  <p><strong>Game Dev</strong><br/>
+    <img src="https://skillicons.dev/icons?i=unity,godot&theme=dark" height="30" />
+  </p>
 </div>
 
 ---
