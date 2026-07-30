@@ -66,6 +66,15 @@ I'm a developer who enjoys building software and learning new paradigms. I striv
 
 ---
 
+### Suggested Readings
+
+- [Orbital Maths at NASA with Chris Hadfield](https://denial.in.net/000-index/orbital-maths-at-nasa-with-chris-hadfield)
+- [DeepSeek R1](https://denial.in.net/deepseek-r1)
+- [DPO (Direct Preference Optimization)](https://denial.in.net/dpo)
+- [What is the best way to treat sensitive data?](https://denial.in.net/001-qec/what-is-the-best-way-to-treat-sensitive-data-)
+
+---
+
 ### Recent Activity
 
 <!--START_SECTION:activity-->
