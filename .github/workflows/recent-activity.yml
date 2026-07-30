@@ -12,6 +12,55 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Fetch and Update Activity
+        run: |
+          python3 -c '
+          import urllib.request, json
+          url = "https://api.github.com/users/denialbb/events/public"
+          req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+          try:
+              with urllib.request.urlopen(req) as response:
+                  events = json.loads(response.read().decode())
+          except: exit(1)
+          
+          lines = []
+          for e in events:
+              if len(lines) >= 5: break
+              repo = e.get("repo", {}).get("name", "")
+              etype = e.get("type", "")
+              url = f"https://github.com/{repo}"
+              
+              if etype == "PushEvent":
+                  commits = len(e.get("payload", {}).get("commits", []))
+                  lines.append(f"{len(lines)+1}. Pushed {commits} commit(s) to [{repo}]({url})")
+              elif etype == "PullRequestEvent":
+                  action = e.get("payload", {}).get("action", "")
+                  pr = e.get("payload", {}).get("number", "")
+                  lines.append(f"{len(lines)+1}. {action.capitalize()} PR [#{pr}]({url}/pull/{pr}) in [{repo}]({url})")
+              elif etype == "IssuesEvent":
+                  action = e.get("payload", {}).get("action", "")
+                  lines.append(f"{len(lines)+1}. {action.capitalize()} issue in [{repo}]({url})")
+              elif etype == "CreateEvent":
+                  ref = e.get("payload", {}).get("ref_type", "")
+                  lines.append(f"{len(lines)+1}. Created {ref} in [{repo}]({url})")
+              elif etype == "WatchEvent":
+                  lines.append(f"{len(lines)+1}. Starred [{repo}]({url})")
+          
+          if not lines: exit(0)
+          
+          with open("README.md", "r") as f: content = f.read()
+          start, end = "<!--START_SECTION:activity-->", "<!--END_SECTION:activity-->"
+          si, ei = content.find(start), content.find(end)
+          if si != -1 and ei != -1:
+              new_content = content[:si + len(start)] + "\n" + "\n".join(lines) + "\n" + content[ei:]
+              with open("README.md", "w") as f: f.write(new_content)
+          '
+          
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README with recent activity" || exit 0
+          git push
