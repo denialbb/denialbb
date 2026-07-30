@@ -40,6 +40,10 @@ I'm a developer who enjoys building software and learning new paradigms. I striv
   <p><strong>Game Dev</strong><br/>
     <img src="https://skillicons.dev/icons?i=unity,godot&theme=dark" height="30" />
   </p>
+  <p><strong>Agentic Tools</strong><br/>
+    <img src="https://img.shields.io/badge/Pi_Agent-242938?style=flat-square&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Herdr-242938?style=flat-square&logoColor=white" height="30" />
+  </p>
 </div>
 
 ---
