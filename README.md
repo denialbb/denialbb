@@ -43,6 +43,17 @@ I'm a developer who enjoys building software and learning new paradigms. I striv
 
 ---
 
+### Featured Projects
+
+- **[Limen](https://github.com/denialbb/limen)** (Go) - An agent collaboration framework.
+- **[AEGIS](https://github.com/denialbb/AEGIS)** (Python) - Autonomous estimation and guidance integrated system for Kerbal Space Program.
+- **[Dependency-parser-it](https://github.com/denialbb/dependency-parser-it)** (Python) - A projective dependency parser for the Italian language.
+- **[LFTCompiler](https://github.com/denialbb/LFTCompiler)** (Java) - Compiler translating a custom Java-like language to IJVM bytecode.
+- **[Pi-extensions](https://github.com/denialbb/pi-extensions)** (TypeScript) - Custom extensions, providers, and a symlink installer for the Pi coding agent.
+- **[KOS-automation](https://github.com/denialbb/KOS-automation)** (KerboScript) - Autopilot suite for Kerbal Space Program.
+
+---
+
 ### GitHub Dashboard
 
 <div align="center">
