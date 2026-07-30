@@ -6,12 +6,7 @@
 **Building ideas, exploring systems, and writing code.**
 
   <p>
-    <a href="https://denial.in.net">
-      <img src="https://img.shields.io/badge/my_brain-purple?style=for-the-badge&logo=htmx&logoColor=black" alt="Website Badge"/>
-    </a>
-    <a href="https://www.x.com/denialbb">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=black" alt="Twitter Badge"/>
-    </a>
+    <a href="https://denial.in.net"><img src="https://img.shields.io/badge/my_brain-purple?style=for-the-badge&logo=htmx&logoColor=black" alt="Website Badge"/></a>&nbsp;&nbsp;<a href="https://www.x.com/denialbb"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=black" alt="Twitter Badge"/></a>
   </p>
 </div>
 
