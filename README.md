@@ -74,6 +74,9 @@ I'm a developer who enjoys building software and learning new paradigms. I striv
 - [Apprendimento Automatico](https://denial.in.net/university/apprendimento-automatico)
 - [Intelligent Agents I](https://denial.in.net/university/intelligent-agents-i)
 - [Policy Gradient Theorem](https://denial.in.net/policy-gradient-theorem)
+- [Etica, Società e Privacy](https://denial.in.net/privacy_ethics/etica,-societ%C3%A0-e-privacy)
+- [Sistemi Operativi](https://denial.in.net/university/sistemi-operativi)
+- [Equality](https://denial.in.net/sociology/equality)
 
 ---
 
