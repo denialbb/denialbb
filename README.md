@@ -26,17 +26,27 @@ I'm a developer who enjoys building software and learning new paradigms. I striv
 - **Ask me about:** Tech, systems, aviation and all kinds of games.
 - **How to reach me:** Drop me a message on [Twitter](https://www.x.com/denialbb) or visit my [website](https://denial.in.net).
 
----
+<br/>
 
-### GitHub Stats
+### Tech Stack
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=denialbb&theme=darcula&hide_border=true&show_icons=true" alt="GitHub Stats" height="192" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denialbb&theme=darcula&hide_border=true&layout=compact&hide=html,css,scss,scheme,shell&langs_count=8&card_width=320" alt="Top Languages" height="192" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=linux,neovim,python,js,ts,html,css,git,github,docker,bash&theme=dark" alt="Skill Icons" />
+</div>
+
+---
+
+### GitHub Dashboard
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=denialbb&bg_color=2b2b2b&color=a9b7c6&line=cc7832&point=cc7832&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=denialbb&theme=darcula&hide_border=true&show_icons=true" alt="GitHub Stats" height="192" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=denialbb&theme=darcula&hide_border=true&layout=compact&hide=html,css,scss,scheme,shell&langs_count=8&card_width=320" alt="Top Languages" height="192" />
 </div>
 
 <br/>
@@ -46,6 +56,13 @@ I'm a developer who enjoys building software and learning new paradigms. I striv
     <img src="https://github-readme-streak-stats.herokuapp.com?user=denialbb&theme=darcula&hide_border=true&border_radius=6.5" alt="GitHub Streak" />
   </a>
 </div>
+
+---
+
+### Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <br/>
 
