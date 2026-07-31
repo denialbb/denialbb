@@ -94,10 +94,11 @@ I'm a developer who enjoys building software and learning new paradigms. I striv
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. Merged PR [#2](https://github.com/denialbb/limen/pull/2) in [denialbb/limen](https://github.com/denialbb/limen)
-2. Opened PR [#2](https://github.com/denialbb/limen/pull/2) in [denialbb/limen](https://github.com/denialbb/limen)
-3. Merged PR [#1](https://github.com/denialbb/limen/pull/1) in [denialbb/limen](https://github.com/denialbb/limen)
-4. Opened PR [#1](https://github.com/denialbb/limen/pull/1) in [denialbb/limen](https://github.com/denialbb/limen)
+1. Pushed 0 commit(s) to [denialbb/denialbb](https://github.com/denialbb/denialbb)
+2. Pushed 0 commit(s) to [denialbb/denialbb](https://github.com/denialbb/denialbb)
+3. Pushed 0 commit(s) to [denialbb/denialbb](https://github.com/denialbb/denialbb)
+4. Pushed 0 commit(s) to [denialbb/denialbb](https://github.com/denialbb/denialbb)
+5. Pushed 0 commit(s) to [denialbb/denialbb](https://github.com/denialbb/denialbb)
 <!--END_SECTION:activity-->
 
 <br/>
