@@ -94,7 +94,7 @@ I'm a developer who enjoys building software and learning new paradigms. I striv
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. Pushed 0 commit(s) to [denialbb/denialbb](https://github.com/denialbb/denialbb)
+1. Starred [tachibana-shin/rakuyomi](https://github.com/tachibana-shin/rakuyomi)
 2. Pushed 0 commit(s) to [denialbb/denialbb](https://github.com/denialbb/denialbb)
 3. Pushed 0 commit(s) to [denialbb/denialbb](https://github.com/denialbb/denialbb)
 4. Pushed 0 commit(s) to [denialbb/denialbb](https://github.com/denialbb/denialbb)
