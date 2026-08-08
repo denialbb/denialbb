@@ -94,10 +94,10 @@ I'm a developer who enjoys building software and learning new paradigms. I striv
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. Starred [tachibana-shin/rakuyomi](https://github.com/tachibana-shin/rakuyomi)
-2. Pushed 0 commit(s) to [denialbb/denialbb](https://github.com/denialbb/denialbb)
-3. Pushed 0 commit(s) to [denialbb/denialbb](https://github.com/denialbb/denialbb)
-4. Pushed 0 commit(s) to [denialbb/denialbb](https://github.com/denialbb/denialbb)
+1. Pushed 0 commit(s) to [denialbb/markdownreader.koplugin](https://github.com/denialbb/markdownreader.koplugin)
+2. Pushed 0 commit(s) to [denialbb/kobo-notes](https://github.com/denialbb/kobo-notes)
+3. Created branch in [denialbb/flashcards.koplugin](https://github.com/denialbb/flashcards.koplugin)
+4. Starred [tachibana-shin/rakuyomi](https://github.com/tachibana-shin/rakuyomi)
 5. Pushed 0 commit(s) to [denialbb/denialbb](https://github.com/denialbb/denialbb)
 <!--END_SECTION:activity-->
 
