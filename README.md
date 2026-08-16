@@ -94,11 +94,11 @@ I'm a developer who enjoys building software and learning new paradigms. I striv
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. Starred [karpushchenko/koreader-rsvp-plugin](https://github.com/karpushchenko/koreader-rsvp-plugin)
-2. Pushed 0 commit(s) to [denialbb/markdownreader.koplugin](https://github.com/denialbb/markdownreader.koplugin)
-3. Pushed 0 commit(s) to [denialbb/kobo-notes](https://github.com/denialbb/kobo-notes)
-4. Created branch in [denialbb/flashcards.koplugin](https://github.com/denialbb/flashcards.koplugin)
-5. Starred [tachibana-shin/rakuyomi](https://github.com/tachibana-shin/rakuyomi)
+1. Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+2. Starred [karpushchenko/koreader-rsvp-plugin](https://github.com/karpushchenko/koreader-rsvp-plugin)
+3. Pushed 0 commit(s) to [denialbb/markdownreader.koplugin](https://github.com/denialbb/markdownreader.koplugin)
+4. Pushed 0 commit(s) to [denialbb/kobo-notes](https://github.com/denialbb/kobo-notes)
+5. Created branch in [denialbb/flashcards.koplugin](https://github.com/denialbb/flashcards.koplugin)
 <!--END_SECTION:activity-->
 
 <br/>
