@@ -94,11 +94,11 @@ I'm a developer who enjoys building software and learning new paradigms. I striv
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. Pushed 0 commit(s) to [denialbb/.dotfiles](https://github.com/denialbb/.dotfiles)
-2. Pushed 0 commit(s) to [denialbb/markdownreader.koplugin](https://github.com/denialbb/markdownreader.koplugin)
-3. Pushed 0 commit(s) to [denialbb/syncnotes.koplugin](https://github.com/denialbb/syncnotes.koplugin)
-4. Pushed 0 commit(s) to [denialbb/flashcards.koplugin](https://github.com/denialbb/flashcards.koplugin)
-5. Pushed 0 commit(s) to [denialbb/kobo-notes](https://github.com/denialbb/kobo-notes)
+1. Starred [franksde/agy-hud](https://github.com/franksde/agy-hud)
+2. Pushed 0 commit(s) to [denialbb/.dotfiles](https://github.com/denialbb/.dotfiles)
+3. Pushed 0 commit(s) to [denialbb/.dotfiles](https://github.com/denialbb/.dotfiles)
+4. Pushed 0 commit(s) to [denialbb/.dotfiles](https://github.com/denialbb/.dotfiles)
+5. Pushed 0 commit(s) to [denialbb/markdownreader.koplugin](https://github.com/denialbb/markdownreader.koplugin)
 <!--END_SECTION:activity-->
 
 <br/>
