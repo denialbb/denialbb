@@ -94,11 +94,11 @@ I'm a developer who enjoys building software and learning new paradigms. I striv
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. Pushed 0 commit(s) to [denialbb/nvim](https://github.com/denialbb/nvim)
-2. Pushed 0 commit(s) to [denialbb/.dotfiles](https://github.com/denialbb/.dotfiles)
-3. Starred [franksde/agy-hud](https://github.com/franksde/agy-hud)
+1. Opened PR [#97](https://github.com/huacnlee/omamail/pull/97) in [huacnlee/omamail](https://github.com/huacnlee/omamail)
+2. Pushed 0 commit(s) to [denialbb/kobo-notes](https://github.com/denialbb/kobo-notes)
+3. Pushed 0 commit(s) to [denialbb/nvim](https://github.com/denialbb/nvim)
 4. Pushed 0 commit(s) to [denialbb/.dotfiles](https://github.com/denialbb/.dotfiles)
-5. Pushed 0 commit(s) to [denialbb/.dotfiles](https://github.com/denialbb/.dotfiles)
+5. Starred [franksde/agy-hud](https://github.com/franksde/agy-hud)
 <!--END_SECTION:activity-->
 
 <br/>
