@@ -94,11 +94,11 @@ I'm a developer who enjoys building software and learning new paradigms. I striv
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. Pushed 0 commit(s) to [denialbb/.dotfiles](https://github.com/denialbb/.dotfiles)
-2. Starred [Foadsf/vintage-latex](https://github.com/Foadsf/vintage-latex)
+1. Pushed 0 commit(s) to [denialbb/relay](https://github.com/denialbb/relay)
+2. Opened issue in [omacom/omarchy-plugin-marketplace](https://github.com/omacom/omarchy-plugin-marketplace)
 3. Pushed 0 commit(s) to [denialbb/.dotfiles](https://github.com/denialbb/.dotfiles)
-4. Pushed 0 commit(s) to [denialbb/.dotfiles](https://github.com/denialbb/.dotfiles)
-5. Pushed 0 commit(s) to [denialbb/relay](https://github.com/denialbb/relay)
+4. Starred [Foadsf/vintage-latex](https://github.com/Foadsf/vintage-latex)
+5. Pushed 0 commit(s) to [denialbb/.dotfiles](https://github.com/denialbb/.dotfiles)
 <!--END_SECTION:activity-->
 
 <br/>
