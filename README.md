@@ -94,10 +94,10 @@ I'm a developer who enjoys building software and learning new paradigms. I striv
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. Pushed 0 commit(s) to [denialbb/zettelkasten](https://github.com/denialbb/zettelkasten)
+1. Pushed 0 commit(s) to [denialbb/relay](https://github.com/denialbb/relay)
 2. Pushed 0 commit(s) to [denialbb/zettelkasten](https://github.com/denialbb/zettelkasten)
 3. Pushed 0 commit(s) to [denialbb/zettelkasten](https://github.com/denialbb/zettelkasten)
-4. Pushed 0 commit(s) to [denialbb/.dotfiles](https://github.com/denialbb/.dotfiles)
+4. Pushed 0 commit(s) to [denialbb/zettelkasten](https://github.com/denialbb/zettelkasten)
 5. Pushed 0 commit(s) to [denialbb/.dotfiles](https://github.com/denialbb/.dotfiles)
 <!--END_SECTION:activity-->
 
