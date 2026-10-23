@@ -57,7 +57,7 @@ I'm a developer who enjoys building software and learning new paradigms. I striv
 ### GitHub Dashboard
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=denialbb&bg_color=2b2b2b&color=a9b7c6&line=cc7832&point=cc7832&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-activity-graph.luckylinux.dev/graph?username=denialbb&bg_color=2b2b2b&color=a9b7c6&line=cc7832&point=cc7832&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
