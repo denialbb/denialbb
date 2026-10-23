@@ -91,14 +91,14 @@ I'm a developer who enjoys building software and learning new paradigms. I striv
 
 ---
 
-### Recent Activity
+### Recent Commits
 
 <!--START_SECTION:activity-->
-1. Created branch in [denialbb/blinky](https://github.com/denialbb/blinky)
-2. Pushed 0 commit(s) to [denialbb/blinky](https://github.com/denialbb/blinky)
-3. Pushed 0 commit(s) to [denialbb/blinky](https://github.com/denialbb/blinky)
-4. Pushed 0 commit(s) to [denialbb/relay](https://github.com/denialbb/relay)
-5. Pushed 0 commit(s) to [denialbb/zettelkasten](https://github.com/denialbb/zettelkasten)
+1. [`bec6226`](https://github.com/denialbb/blinky/commit/bec6226507be42eceb7b09d854f91fcab59b954d) - **[denialbb/blinky](https://github.com/denialbb/blinky)**: Implement webcam status, slow steady fade pattern, LED restoration on exit, and docs *(2026-10-16)*
+2. [`d59f085`](https://github.com/denialbb/blinky/commit/d59f0850ff2dad6b971823b8d2220b5dcbb34b24) - **[denialbb/blinky](https://github.com/denialbb/blinky)**: Multi-LED support, probe command, X230 ThinkLight limitation documented *(2026-10-16)*
+3. [`4d4107a`](https://github.com/denialbb/relay/commit/4d4107a955d81cc919b58388b4d952042adf03ff) - **[denialbb/relay](https://github.com/denialbb/relay)**: fix(ui): scroll conversation to bottom on entry and clean dead code *(2026-10-14)*
+4. [`1524350`](https://github.com/denialbb/zettelkasten/commit/1524350b60cb83f061a14637ab0492528e5d6c8a) - **[denialbb/zettelkasten](https://github.com/denialbb/zettelkasten)**: fix(site): publish vault minus garden/; CV + landing at root paths; reader mode off by default; header CV/social links with readable backdrop *(2026-10-11)*
+5. [`36fa0f5`](https://github.com/denialbb/zettelkasten/commit/36fa0f5940b548b9b7ede5ebe049ccb138ec973f) - **[denialbb/zettelkasten](https://github.com/denialbb/zettelkasten)**: feat(garden): CV section at /cv with CSS-only EN/IT toggle, embedded 1-page PDFs (EN/IT), theme-aware styles; landing-page entry point *(2026-10-10)*
 <!--END_SECTION:activity-->
 
 <br/>
