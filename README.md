@@ -94,11 +94,11 @@ I'm a developer who enjoys building software and learning new paradigms. I striv
 ### Recent Commits
 
 <!--START_SECTION:activity-->
-1. [`e5229cf`](https://github.com/denialbb/omamail/commit/e5229cf2f6238a6678d4a54bc30b050fd95a589f) - **[denialbb/omamail](https://github.com/denialbb/omamail)**: Fix credential search on unlocked keyrings and clear in-flight lookup state *(2026-10-24)*
-2. [`a9b2f19`](https://github.com/denialbb/omamail/commit/a9b2f19ccc66a06928279500fcad80f2fd42370f) - **[denialbb/omamail](https://github.com/denialbb/omamail)**: Add test asserting account change cancels credential store retry *(2026-10-23)*
-3. [`bec6226`](https://github.com/denialbb/blinky/commit/bec6226507be42eceb7b09d854f91fcab59b954d) - **[denialbb/blinky](https://github.com/denialbb/blinky)**: Implement webcam status, slow steady fade pattern, LED restoration on exit, and docs *(2026-10-16)*
-4. [`d59f085`](https://github.com/denialbb/blinky/commit/d59f0850ff2dad6b971823b8d2220b5dcbb34b24) - **[denialbb/blinky](https://github.com/denialbb/blinky)**: Multi-LED support, probe command, X230 ThinkLight limitation documented *(2026-10-16)*
-5. [`4d4107a`](https://github.com/denialbb/relay/commit/4d4107a955d81cc919b58388b4d952042adf03ff) - **[denialbb/relay](https://github.com/denialbb/relay)**: fix(ui): scroll conversation to bottom on entry and clean dead code *(2026-10-14)*
+1. [`a55f690`](https://github.com/denialbb/omamail/commit/a55f69064e3f5fbfa35b97efc1189344ba9fd3fe) - **[denialbb/omamail](https://github.com/denialbb/omamail)**: chore: Update deprecated fetch_update to try_update in native tests *(2026-10-24)*
+2. [`e5229cf`](https://github.com/denialbb/omamail/commit/e5229cf2f6238a6678d4a54bc30b050fd95a589f) - **[denialbb/omamail](https://github.com/denialbb/omamail)**: Fix credential search on unlocked keyrings and clear in-flight lookup state *(2026-10-24)*
+3. [`a9b2f19`](https://github.com/denialbb/omamail/commit/a9b2f19ccc66a06928279500fcad80f2fd42370f) - **[denialbb/omamail](https://github.com/denialbb/omamail)**: Add test asserting account change cancels credential store retry *(2026-10-23)*
+4. [`bec6226`](https://github.com/denialbb/blinky/commit/bec6226507be42eceb7b09d854f91fcab59b954d) - **[denialbb/blinky](https://github.com/denialbb/blinky)**: Implement webcam status, slow steady fade pattern, LED restoration on exit, and docs *(2026-10-16)*
+5. [`d59f085`](https://github.com/denialbb/blinky/commit/d59f0850ff2dad6b971823b8d2220b5dcbb34b24) - **[denialbb/blinky](https://github.com/denialbb/blinky)**: Multi-LED support, probe command, X230 ThinkLight limitation documented *(2026-10-16)*
 <!--END_SECTION:activity-->
 
 <br/>
