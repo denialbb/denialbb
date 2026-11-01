@@ -94,11 +94,11 @@ I'm a developer who enjoys building software and learning new paradigms. I striv
 ### Recent Commits
 
 <!--START_SECTION:activity-->
-1. [`d2aa2d9`](https://github.com/denialbb/zettelkasten/commit/d2aa2d909f9fe935c7217cea852b33b9da99edd8) - **[denialbb/zettelkasten](https://github.com/denialbb/zettelkasten)**: chore(site): add Google Search Console verification *(2026-10-29)*
-2. [`a55f690`](https://github.com/denialbb/omamail/commit/a55f69064e3f5fbfa35b97efc1189344ba9fd3fe) - **[denialbb/omamail](https://github.com/denialbb/omamail)**: chore: Update deprecated fetch_update to try_update in native tests *(2026-10-24)*
-3. [`e5229cf`](https://github.com/denialbb/omamail/commit/e5229cf2f6238a6678d4a54bc30b050fd95a589f) - **[denialbb/omamail](https://github.com/denialbb/omamail)**: Fix credential search on unlocked keyrings and clear in-flight lookup state *(2026-10-24)*
-4. [`a9b2f19`](https://github.com/denialbb/omamail/commit/a9b2f19ccc66a06928279500fcad80f2fd42370f) - **[denialbb/omamail](https://github.com/denialbb/omamail)**: Add test asserting account change cancels credential store retry *(2026-10-23)*
-5. [`bec6226`](https://github.com/denialbb/blinky/commit/bec6226507be42eceb7b09d854f91fcab59b954d) - **[denialbb/blinky](https://github.com/denialbb/blinky)**: Implement webcam status, slow steady fade pattern, LED restoration on exit, and docs *(2026-10-16)*
+1. [`9a5b989`](https://github.com/denialbb/zettelkasten/commit/9a5b9890115864e251bbf01abb03988a2b3059a2) - **[denialbb/zettelkasten](https://github.com/denialbb/zettelkasten)**: feat(site): improve identity SEO and theme polish *(2026-10-29)*
+2. [`3c6556f`](https://github.com/denialbb/.dotfiles/commit/3c6556f6831545f9005e6134e5729c3fbca8e0f9) - **[denialbb/.dotfiles](https://github.com/denialbb/.dotfiles)**: feat(icons): add multi-size oreo_white_cursors with 14px size config *(2026-10-30)*
+3. [`cb7666b`](https://github.com/denialbb/zettelkasten/commit/cb7666bac86923480b4865cae959a22420d1d8b2) - **[denialbb/zettelkasten](https://github.com/denialbb/zettelkasten)**: Add AI 2025-2026 study notes and crosslinks *(2026-10-30)*
+4. [`d2aa2d9`](https://github.com/denialbb/zettelkasten/commit/d2aa2d909f9fe935c7217cea852b33b9da99edd8) - **[denialbb/zettelkasten](https://github.com/denialbb/zettelkasten)**: chore(site): add Google Search Console verification *(2026-10-29)*
+5. [`a55f690`](https://github.com/denialbb/omamail/commit/a55f69064e3f5fbfa35b97efc1189344ba9fd3fe) - **[denialbb/omamail](https://github.com/denialbb/omamail)**: chore: Update deprecated fetch_update to try_update in native tests *(2026-10-24)*
 <!--END_SECTION:activity-->
 
 <br/>
