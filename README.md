@@ -94,11 +94,11 @@ I'm a developer who enjoys building software and learning new paradigms. I striv
 ### Recent Commits
 
 <!--START_SECTION:activity-->
-1. [`9a5b989`](https://github.com/denialbb/zettelkasten/commit/9a5b9890115864e251bbf01abb03988a2b3059a2) - **[denialbb/zettelkasten](https://github.com/denialbb/zettelkasten)**: feat(site): improve identity SEO and theme polish *(2026-10-29)*
-2. [`3c6556f`](https://github.com/denialbb/.dotfiles/commit/3c6556f6831545f9005e6134e5729c3fbca8e0f9) - **[denialbb/.dotfiles](https://github.com/denialbb/.dotfiles)**: feat(icons): add multi-size oreo_white_cursors with 14px size config *(2026-10-30)*
-3. [`cb7666b`](https://github.com/denialbb/zettelkasten/commit/cb7666bac86923480b4865cae959a22420d1d8b2) - **[denialbb/zettelkasten](https://github.com/denialbb/zettelkasten)**: Add AI 2025-2026 study notes and crosslinks *(2026-10-30)*
-4. [`d2aa2d9`](https://github.com/denialbb/zettelkasten/commit/d2aa2d909f9fe935c7217cea852b33b9da99edd8) - **[denialbb/zettelkasten](https://github.com/denialbb/zettelkasten)**: chore(site): add Google Search Console verification *(2026-10-29)*
-5. [`a55f690`](https://github.com/denialbb/omamail/commit/a55f69064e3f5fbfa35b97efc1189344ba9fd3fe) - **[denialbb/omamail](https://github.com/denialbb/omamail)**: chore: Update deprecated fetch_update to try_update in native tests *(2026-10-24)*
+1. [`ae6b089`](https://github.com/denialbb/zettelkasten/commit/ae6b08935b2513502f3febac211407bc538db146) - **[denialbb/zettelkasten](https://github.com/denialbb/zettelkasten)**: feat(site): refine coder typography and PDF viewer *(2026-10-30)*
+2. [`9a5b989`](https://github.com/denialbb/zettelkasten/commit/9a5b9890115864e251bbf01abb03988a2b3059a2) - **[denialbb/zettelkasten](https://github.com/denialbb/zettelkasten)**: feat(site): improve identity SEO and theme polish *(2026-10-29)*
+3. [`3c6556f`](https://github.com/denialbb/.dotfiles/commit/3c6556f6831545f9005e6134e5729c3fbca8e0f9) - **[denialbb/.dotfiles](https://github.com/denialbb/.dotfiles)**: feat(icons): add multi-size oreo_white_cursors with 14px size config *(2026-10-30)*
+4. [`cb7666b`](https://github.com/denialbb/zettelkasten/commit/cb7666bac86923480b4865cae959a22420d1d8b2) - **[denialbb/zettelkasten](https://github.com/denialbb/zettelkasten)**: Add AI 2025-2026 study notes and crosslinks *(2026-10-30)*
+5. [`d2aa2d9`](https://github.com/denialbb/zettelkasten/commit/d2aa2d909f9fe935c7217cea852b33b9da99edd8) - **[denialbb/zettelkasten](https://github.com/denialbb/zettelkasten)**: chore(site): add Google Search Console verification *(2026-10-29)*
 <!--END_SECTION:activity-->
 
 <br/>
