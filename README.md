@@ -94,9 +94,11 @@ I'm a developer who enjoys building software and learning new paradigms. I striv
 ### Recent Commits
 
 <!--START_SECTION:activity-->
-1. [`ae6b089`](https://github.com/denialbb/zettelkasten/commit/ae6b08935b2513502f3febac211407bc538db146) - **[denialbb/zettelkasten](https://github.com/denialbb/zettelkasten)**: feat(site): refine coder typography and PDF viewer *(2026-10-30)*
-2. [`9a5b989`](https://github.com/denialbb/zettelkasten/commit/9a5b9890115864e251bbf01abb03988a2b3059a2) - **[denialbb/zettelkasten](https://github.com/denialbb/zettelkasten)**: feat(site): improve identity SEO and theme polish *(2026-10-29)*
-3. [`3c6556f`](https://github.com/denialbb/.dotfiles/commit/3c6556f6831545f9005e6134e5729c3fbca8e0f9) - **[denialbb/.dotfiles](https://github.com/denialbb/.dotfiles)**: feat(icons): add multi-size oreo_white_cursors with 14px size config *(2026-10-30)*
+1. [`508f835`](https://github.com/denialbb/prolog-asp-search/commit/508f83523f861a8051986a081270ba48fc06e8ec) - **[denialbb/prolog-asp-search](https://github.com/denialbb/prolog-asp-search)**: Merge pull request #4 from denialbb/docs/english-report *(2026-10-31)*
+2. [`992291a`](https://github.com/denialbb/clips-wumpus/commit/992291a2c46a26c40e93f9cd6c46ff612efdc203) - **[denialbb/clips-wumpus](https://github.com/denialbb/clips-wumpus)**: Merge pull request #5 from denialbb/feat/agent-planning *(2026-11-01)*
+3. [`c144003`](https://github.com/denialbb/clips-wumpus/commit/c1440038185a507660cb0e9c0fffef4193504cb1) - **[denialbb/clips-wumpus](https://github.com/denialbb/clips-wumpus)**: Merge pull request #6 from denialbb/feat/agent-pit-guesses *(2026-11-01)*
+4. [`322daf1`](https://github.com/denialbb/clips-wumpus/commit/322daf1ec6840f0575291812a4d0bee699601717) - **[denialbb/clips-wumpus](https://github.com/denialbb/clips-wumpus)**: Merge pull request #8 from denialbb/docs/final-report *(2026-11-01)*
+5. [`2d8f18b`](https://github.com/denialbb/clips-wumpus/commit/2d8f18b9fcc5561b90b4acf6b2f41f5b1426d49c) - **[denialbb/clips-wumpus](https://github.com/denialbb/clips-wumpus)**: Merge pull request #2 from denialbb/feat/agent-skeleton *(2026-10-31)*
 <!--END_SECTION:activity-->
 
 <br/>
