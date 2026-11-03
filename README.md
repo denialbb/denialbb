@@ -94,11 +94,11 @@ I'm a developer who enjoys building software and learning new paradigms. I striv
 ### Recent Commits
 
 <!--START_SECTION:activity-->
-1. [`508f835`](https://github.com/denialbb/prolog-asp-search/commit/508f83523f861a8051986a081270ba48fc06e8ec) - **[denialbb/prolog-asp-search](https://github.com/denialbb/prolog-asp-search)**: Merge pull request #4 from denialbb/docs/english-report *(2026-10-31)*
-2. [`992291a`](https://github.com/denialbb/clips-wumpus/commit/992291a2c46a26c40e93f9cd6c46ff612efdc203) - **[denialbb/clips-wumpus](https://github.com/denialbb/clips-wumpus)**: Merge pull request #5 from denialbb/feat/agent-planning *(2026-11-01)*
-3. [`c144003`](https://github.com/denialbb/clips-wumpus/commit/c1440038185a507660cb0e9c0fffef4193504cb1) - **[denialbb/clips-wumpus](https://github.com/denialbb/clips-wumpus)**: Merge pull request #6 from denialbb/feat/agent-pit-guesses *(2026-11-01)*
-4. [`322daf1`](https://github.com/denialbb/clips-wumpus/commit/322daf1ec6840f0575291812a4d0bee699601717) - **[denialbb/clips-wumpus](https://github.com/denialbb/clips-wumpus)**: Merge pull request #8 from denialbb/docs/final-report *(2026-11-01)*
-5. [`2d8f18b`](https://github.com/denialbb/clips-wumpus/commit/2d8f18b9fcc5561b90b4acf6b2f41f5b1426d49c) - **[denialbb/clips-wumpus](https://github.com/denialbb/clips-wumpus)**: Merge pull request #2 from denialbb/feat/agent-skeleton *(2026-10-31)*
+1. [`8cb7b48`](https://github.com/denialbb/limen/commit/8cb7b48cfc9e19db765a44c68a4107aa92a1a631) - **[denialbb/limen](https://github.com/denialbb/limen)**: Stabilize shell fixtures and TUI wait *(2026-11-01)*
+2. [`486e063`](https://github.com/denialbb/limen/commit/486e063ec004674ed76f330c7d8e3b88b56fbb9b) - **[denialbb/limen](https://github.com/denialbb/limen)**: Stabilize shell fixtures and TUI wait *(2026-11-01)*
+3. [`a6286f0`](https://github.com/denialbb/clips-wumpus/commit/a6286f02b059c5649d83d35b2d5f096859932568) - **[denialbb/clips-wumpus](https://github.com/denialbb/clips-wumpus)**: chore: add testing harness, cyclomatic complexity checks, CI workflow and development guidelines *(2026-10-31)*
+4. [`508f835`](https://github.com/denialbb/prolog-asp-search/commit/508f83523f861a8051986a081270ba48fc06e8ec) - **[denialbb/prolog-asp-search](https://github.com/denialbb/prolog-asp-search)**: Merge pull request #4 from denialbb/docs/english-report *(2026-10-31)*
+5. [`992291a`](https://github.com/denialbb/clips-wumpus/commit/992291a2c46a26c40e93f9cd6c46ff612efdc203) - **[denialbb/clips-wumpus](https://github.com/denialbb/clips-wumpus)**: Merge pull request #5 from denialbb/feat/agent-planning *(2026-11-01)*
 <!--END_SECTION:activity-->
 
 <br/>
